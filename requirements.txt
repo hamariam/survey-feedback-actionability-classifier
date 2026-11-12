@@ -2,3 +2,4 @@ gradio
 torch
 transformers
 huggingface_hub
+pandas
