@@ -83,6 +83,8 @@ A sample CSV is provided in the `sample-data` folder so users can test the batch
 
 The sample includes multiple columns, demonstrating how users can select the appropriate feedback column without modifying their original spreadsheet.
 
+[Download the sample survey feedback CSV](sample-data/survey_feedback_test.csv)
+
 ## How to Use
 
 1. Open the live application.
