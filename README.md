@@ -1,16 +1,4 @@
 
----
-title: Survey Feedback Actionability Classifier
-emoji: 📝
-colorFrom: blue
-colorTo: yellow
-sdk: gradio
-sdk_version: 6.31.0
-app_file: app.py
-pinned: false
-license: apache-2.0
----
-
 # 📝 Survey Feedback Actionability Classifier
 
 An AI-powered application that classifies open-ended survey feedback as actionable or non-actionable, helping organizations identify suggestions and opportunities for improvement.
